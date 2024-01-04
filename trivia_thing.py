@@ -26,6 +26,10 @@ def main():
     print("B: " + html.unescape(incorrect2))
     print("C: " + html.unescape(incorrect3))
     print("D: " + html.unescape(correct))
-    input("Your answer: ")
+    ch1 = input("Your answer: ")
+    if ch1 == "D":
+        print("Correct!")
+    else:
+        print("Incorrect! What is wrong with you? loser lol")
 
 main()
