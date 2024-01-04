@@ -3,7 +3,7 @@
 
 def main():
 
-    choice = input("You are standing at a crossroad.\n There are four directions you can go in, North, West, East, or South.\n There is a sign with names of towns at the crossroads\n What do you do?")
+    choice = input("You are standing at a crossroad.\n There are four directions you can go in, North, West, East, or South.\n There is a sign at the crossroads\n What do you do?\n")
     if choice == "go west":
         print(f"You head west, and soon see a gigantic cavern at the foot of a cliff.")
     elif choice == "go east":
