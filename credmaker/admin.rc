@@ -1,0 +1,7 @@
+export OS_AUTH_URL=diddly squat
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=nevada
+export OS_PROJECT_DOMAIN_NAME=lenny
+export OS_USERNAME=window
+export OS_USER_DOMAIN_NAME=winder
+export OS_PASSWORD=joe mama
